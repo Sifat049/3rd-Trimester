@@ -15,10 +15,8 @@ Welcome to the **3rd Trimester Academic Resources** repository! This repository 
 3rd-Trimester/
 │── Computer-Science/
 │   ├── OOP/
-
 │── Mathematics/
 │   ├── Calculus/
-
 │── Engineering/
 │   ├── Digital-Logic-Design/
 │── Assignments/
