@@ -4,7 +4,6 @@
 Welcome to the **3rd Trimester Academic Resources** repository! This repository contains essential study materials, including **lecture notes, solved exercises, assignments, and exam resources** for the 3rd trimester.
 
 
-
 ## 📌 Subjects Covered
 - 🖥️ **Computer Science** (OOP, Database Management Systems, Computer Networks)
 - 📊 **Mathematics** (Calculus, Discrete Mathematics)
